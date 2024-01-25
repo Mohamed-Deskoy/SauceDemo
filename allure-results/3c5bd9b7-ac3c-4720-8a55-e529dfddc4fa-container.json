@@ -1,0 +1,1 @@
+{"uuid":"3c5bd9b7-ac3c-4720-8a55-e529dfddc4fa","name":"Products_TC.productSetUp","children":["147390c0-9bd1-4ed4-9dd7-859b0fbd2d58"],"description":"","befores":[{"name":"productSetUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1706091000224,"stop":1706091001690}],"afters":[],"start":1706091000224,"stop":1706091001690}

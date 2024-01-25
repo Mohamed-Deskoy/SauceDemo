@@ -1,0 +1,1 @@
+{"uuid":"9563c4ca-c29c-4457-99fa-603acb1adbf9","name":"Defects_TC.Defect_Setup","children":["a2ceaaf7-fbba-41fa-9137-d0b4097f3e16"],"description":"","befores":[{"name":"Defect_Setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1706092101815,"stop":1706092102945}],"afters":[],"start":1706092101814,"stop":1706092102946}
